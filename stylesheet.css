@@ -1,0 +1,11 @@
+li{
+    display: inline;
+}
+table {
+    display: table;
+    border-color: grey;
+    text-indent: initial;
+    border-spacing: 3px;
+    border-collapse: separate;
+    box-sizing: border-box;
+}
